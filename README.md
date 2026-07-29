@@ -1,21 +1,21 @@
 # Tellerwert — Releases
 
-Hier liegen die veröffentlichten Versionen von **Tellerwert**, einer nativen
-Android-App für Kalorien- und Makro-Tracking.
+Published builds of **Tellerwert**, a native Android app for calorie and
+macro tracking with AI-assisted photo estimation.
 
-Der Quellcode liegt in einem separaten, privaten Repository. Dieses Repo
-enthält ausschließlich Releases — GitHub kennt keine Sichtbarkeit pro
-Bereich, und bei einem privaten Repo wären auch die Releases privat.
+The source code lives in a separate, private repository. This repo holds
+releases only: GitHub has no per-area visibility, so a private repo would
+make the releases private too.
 
-## Installation
+## Install
 
-1. Unter [Releases](../../releases) die neueste `tellerwert-*.apk` herunterladen.
-2. Auf dem Android-Gerät antippen und der Installation zustimmen.
-3. Beim ersten Mal fragt Android, ob die Quelle Apps installieren darf.
+1. Download the latest `tellerwert-*.apk` from [Releases](../../releases).
+2. Open the file on your Android device and confirm the installation.
+3. The first time, Android asks whether the source may install apps.
 
-Die App prüft selbst auf Updates und lädt sie von hier.
+The app checks for updates on its own and downloads them from here.
 
-## Hinweis zur Signatur
+## Signing
 
-Alle Versionen sind mit demselben Schlüssel signiert. Ein Wechsel von einer
-anderswo bezogenen Version erfordert eine Neuinstallation.
+Every build is signed with the same key. Switching from a build obtained
+elsewhere requires uninstalling first.
