@@ -1,6 +1,6 @@
-# Tellerwert — Releases
+# Mealtime — Releases
 
-Published builds of **Tellerwert**, a native Android app for calorie and
+Published builds of **Mealtime**, a native Android app for calorie and
 macro tracking with AI-assisted photo estimation.
 
 The source code lives in a separate, private repository. This repo holds
@@ -9,7 +9,7 @@ make the releases private too.
 
 ## Install
 
-1. Download the latest `tellerwert-*.apk` from [Releases](../../releases).
+1. Download the latest `Mealtime-*.apk` from [Releases](../../releases).
 2. Open the file on your Android device and confirm the installation.
 3. The first time, Android asks whether the source may install apps.
 
